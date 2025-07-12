@@ -73,7 +73,7 @@ User Query → AI Agent (Mistral 7B) → Tool Calls → Real-Time Timezone Resul
 
 ## 📚 Inspiration
 
-Thanks to the amazing [Hugging Face AI Agents Course](https://huggingface.co/learn/agents) and the growing open-source ecosystem around **LLMs + tool use**.
+Thanks to the amazing [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course) and the growing open-source ecosystem around **LLMs + tool use**.
 
 ---
 
